@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "name": "ev2r",
+  "rewrites": [{ "source": "/(.*)", "destination": "/api/index" }],
+  "trailingSlash": false
+}
